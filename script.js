@@ -7,7 +7,7 @@
 const PERSON_INFO = {
   discordId: '755329260457033829'
 };
-const GITHUB_USERNAME = 'cw.xyz';
+const GITHUB_USERNAME = 'CoduxXYZ';
 const GITHUB_API_BASE = 'https://api.github.com';
 
 function escapeHtml(str) {
