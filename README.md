@@ -1,5 +1,3 @@
-# Natan Alfarizqi — Personal Portfolio
-
 A clean, minimal personal portfolio with live Discord presence integration.
 
 ## Features
@@ -12,7 +10,6 @@ A clean, minimal personal portfolio with live Discord presence integration.
 - **Dark Theme** — black background with pink accent
 
 ## Tech Stack
-
 - HTML5
 - CSS3
 - Vanilla JavaScript
@@ -21,23 +18,18 @@ A clean, minimal personal portfolio with live Discord presence integration.
 - Google Fonts (Inter)
 
 ## Getting Started
-
 1. Clone the repo
    ```bash
    git clone https://github.com/cxvu/Portfolio.git
    ```
 2. Open `index.html` in a browser
-
 ## Deploy to GitHub Pages
-
 1. Push to GitHub
 2. Go to **Settings > Pages**
 3. Set source to **Deploy from a branch**
 4. Select branch `main` and folder `/ (root)`
 5. Save — your site will be live at `https://cxvu.github.io/portfolio`
-
 ## Configuration
-
 Edit `script.js` to customize:
 
 ```js
