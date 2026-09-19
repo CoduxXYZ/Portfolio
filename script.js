@@ -5,7 +5,7 @@
 
 // --- 1. CONFIGURATION ---
 const PERSON_INFO = {
-  discordId: '426537812993638400'
+  discordId: '755329260457033829'
 };
 const GITHUB_USERNAME = 'CoduxXYZ';
 const GITHUB_API_BASE = 'https://api.github.com';
